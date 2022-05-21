@@ -2,6 +2,19 @@
 
 ### `keyboard`
 
+<details>
+<summary>keymap</summary>
+<p>
+
+- <kbd>contorl+h</kbd> - del char before cursor
+- <kbd>control+k</kbd> - del remain words after cusor
+- <kbd>control+u</kbd> - (working on terminal) clear input
+- <kbd>control+a/e/f/b/p/n</kbd> - move cusor `ahead/end/forward/backward/prev/next`, `a/e` is useful. `f/b` with <kbd>option</kbd>, move cursor word by word is optional.
+- <kbd>control+command+space</kbd> - emoji panel
+
+</p>
+</details>
+
 #### `niz(main)`
 
 - [karabinder](/keyboard/niz-karabinder-rules.json) niz66 karabinder map config
@@ -11,6 +24,7 @@
     - right_command + <kbd><p/l/;/'></kbd> -> <kbd><top_arrow/left_arrow/down_arrow/right_arrow></kbd>
 - other hotkeys
   - <kbd>control+space</kbd> switch lang
+  - disable <kbd>fn+any</kbd> trigger emoji panel, use <kbd>control+command+space</kbd> instead.
 
 #### `hhkb`
 
@@ -19,6 +33,9 @@
     - right_command + <kbd><p/l/;/'></kbd> -> <kbd><top_arrow/left_arrow/down_arrow/right_arrow></kbd>
 - other hotkeys
   - <kbd>control+space</kbd> switch lang
+  - disable <kbd>fn+any</kbd> trigger emoji panel, use <kbd>control+command+space</kbd> instead.
+
+#### `keymap`
 
 ### `headphone`
 
