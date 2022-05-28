@@ -2,7 +2,7 @@
   "title": "Hai HHKB",
   "rules": [
     {
-      "description": "Hai HHKB: fn+`j`=arrow_left, fn+`k`==arrow_down, fn+`i`=arrow_up, fn+`l`=arrow_right",
+      "description": "Hai HHKB: fn+`l`=arrow_left, fn+`;`==arrow_down, fn+`p`=arrow_up, fn+`'`=arrow_right",
       "manipulators": [
         {
           "from": {
