@@ -10,6 +10,7 @@
 - <kbd>control+k</kbd> - del remain words after cusor
 - <kbd>control+u</kbd> - (working on terminal) clear input
 - <kbd>control+a/e/f/b/p/n</kbd> - move cusor `ahead/end/forward/backward/prev/next`, `a/e` is useful. `f/b` with <kbd>option</kbd>, move cursor word by word is optional.
+- <kbd>fn+command+up/down</kbd> - move cusor to top/bottom of file
 - <kbd>control+command+space</kbd> - emoji panel
 
 </p>
