@@ -29,9 +29,10 @@
 
 #### `hhkb`
 
-- [karabinder](/keyboard/hhkb-karabinder-rules.json) niz66 karabinder map config
-  - complex rules
-    - right_command + <kbd><p/l/;/'></kbd> -> <kbd><top_arrow/left_arrow/down_arrow/right_arrow></kbd>
+- use hhkb keymap tool to remap keys ([original post](https://www.v2ex.com/t/865202))
+  1. Download Keymap Tool from offical website
+  2. Click Alphabetical Order(字母顺序), Remap <kbd>right-command</kbd> to <kbd>fn</kbd>
+  3. Click **original <kbd>fn</kbd>** to remap <kbd><p/l/;/'></kbd> -> <kbd><top_arrow/left_arrow/down_arrow/right_arrow></kbd>
 - other hotkeys
   - <kbd>control+space</kbd> switch lang
   - disable <kbd>fn+any</kbd> trigger emoji panel, use <kbd>control+command+space</kbd> instead.
