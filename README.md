@@ -16,18 +16,7 @@
 </p>
 </details>
 
-#### `niz(main)`
-
-- [karabinder](/keyboard/niz-karabinder-rules.json) niz66 karabinder map config
-  - <kbd>CapsLock</kbd> to <kbd>Left Control</kbd>
-  - <kbd>\\</kbd> to <kbd>delete_or_forward</kbd>
-  - complex rules
-    - right_command + <kbd><p/l/;/'></kbd> -> <kbd><top_arrow/left_arrow/down_arrow/right_arrow></kbd>
-- other hotkeys
-  - <kbd>control+space</kbd> switch lang
-  - disable <kbd>fn+any</kbd> trigger emoji panel, use <kbd>control+command+space</kbd> instead.
-
-#### `hhkb`
+#### `hhkb(main)`
 
 - use hhkb keymap tool to remap keys ([original post](https://www.v2ex.com/t/865202))
   1. Download Keymap Tool from offical website
@@ -35,9 +24,23 @@
   3. Click **original <kbd>fn</kbd>** to remap <kbd><p/l/;/'></kbd> -> <kbd><top_arrow/left_arrow/down_arrow/right_arrow></kbd>
 - other hotkeys
   - <kbd>control+space</kbd> switch lang
-  - disable <kbd>fn+any</kbd> trigger emoji panel, use <kbd>control+command+space</kbd> instead.
 
-#### `keymap`
+#### `matrix keyboard`
+
+1. <kbd><p/l/;/'></kbd> -> <kbd><top_arrow/left_arrow/down_arrow/right_arrow></kbd>
+2. <kbd>control+space</kbd> switch lang
+
+### `typing`
+
+[Rime](https://rime.im/) + [雾凇拼音](https://github.com/iDvel/rime-ice?tab=readme-ov-file#%E4%B8%9C%E9%A3%8E%E7%A0%B4-plum)
+
+Here is my custom config overrides:
+
+- [rime/default.custom.yaml](rime/default.custom.yaml)
+  - 每行 10 个候选词
+- [rime/squirrel.custom.yaml](rime/squirrel.custom.yaml)
+  - 使用 shadcn/ui 的 default dark/light 配色
+  - 水平排列
 
 ### `headphone`
 

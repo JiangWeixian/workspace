@@ -1,0 +1,4 @@
+# default.custom.yaml
+patch:
+  # 增加候选词数量
+  "menu/page_size": 10
